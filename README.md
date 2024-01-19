@@ -1,4 +1,4 @@
-This project is a part of 22/23 Machine Learning module at University of Leeds.
+## This project is a part of 22/23 Machine Learning module at University of Leeds.
 
 The aim of the project is to examine the real world data set of heart attack and housing price as following:
 1. Exploratory data analysis (EDA)
